@@ -1,3 +1,6 @@
+/*AD SOYAD : BURÇİN AYYILDIZ
+NUMARA : 250541058 
+TARİH : 3.12.2025 */
 public class Exercise4_2 {
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
