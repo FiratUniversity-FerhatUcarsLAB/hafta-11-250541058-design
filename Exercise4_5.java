@@ -1,3 +1,6 @@
+/*AD SOYAD : BURÇİN AYYILDIZ 
+NUMARA : 250541058 
+TARİH : 3.12.2025 */
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
@@ -25,3 +28,7 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+Çıktı :
+just for 
+ any not more 
+It's  breakfast !
